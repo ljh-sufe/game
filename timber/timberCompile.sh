@@ -1,0 +1,1 @@
+g++ timber.cpp -I/opt/homebrew/Cellar/sfml/2.5.1_2/include -o timber -L/opt/homebrew/Cellar/sfml/2.5.1_2/lib -lsfml-graphics -lsfml-window -lsfml-system
